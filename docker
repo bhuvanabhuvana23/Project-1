@@ -1,0 +1,9 @@
+commands
+container
+pipelines
+plugins
+maven
+java
+nexus
+sonarqube
+kubernets
